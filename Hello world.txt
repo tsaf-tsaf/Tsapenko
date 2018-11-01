@@ -1,3 +1,8 @@
+
 print("Hello world")
 print ("hulio")
 print ("samsa")
+print("Hello world");
+print("Hello");
+print ("huilo");
+
